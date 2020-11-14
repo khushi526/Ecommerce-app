@@ -1,7 +1,7 @@
 # Ecommerce-app
 Doctor app
-![doctor_consultation (1)](https://user-images.githubusercontent.com/53462564/99156295-dd791b80-26e5-11eb-8689-fcdda89e1551.png)
-![doctor_consultation (2)](https://user-images.githubusercontent.com/53462564/99156394-7f006d00-26e6-11eb-85df-428310993f9d.png)
-![doctor_consultation (3)](https://user-images.githubusercontent.com/53462564/99156437-d4d51500-26e6-11eb-97f4-7b082f13355a.png)
+![doctor_consultation (1) (1)](https://user-images.githubusercontent.com/53462564/99156731-5fb70f00-26e9-11eb-9677-abf084561f9c.png)
+![doctor_consultation (2) (1)](https://user-images.githubusercontent.com/53462564/99156740-6ba2d100-26e9-11eb-9085-9e86d9a630a8.png)
+![doctor_consultation (3) (1)](https://user-images.githubusercontent.com/53462564/99156743-73627580-26e9-11eb-81ea-f0630c0ceed7.png)
 
 
